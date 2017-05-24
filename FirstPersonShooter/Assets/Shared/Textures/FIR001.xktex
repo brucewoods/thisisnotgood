@@ -1,0 +1,7 @@
+!Texture
+Id: 01209e36-9eb3-43fa-bc58-222435c89902
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../Resources/Textures/Flame/FIR001.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}

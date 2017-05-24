@@ -1,0 +1,26 @@
+!Model
+Id: 670d1092-e95d-421d-be79-d84038035101
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../Resources/Models/MagazineModel.fbx
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    62b95c8c6d652a3c31424c6e31424c6e:
+        Name: bulletMT
+        MaterialInstance:
+            Material: fb8f4b25-1e94-43bf-944c-818365386e52:Materials/MattBlack
+    77f0be4f0cd36cd479800d2579800d25:
+        Name: matteMT
+        MaterialInstance:
+            Material: 71a21d32-3e10-4b79-b92e-ae9731a0ada1:Materials/MattBlackMachinegun
+    b158ca41e15b46f8b2746c0a97fdd6ee:
+        Name: semiGlossMT
+        MaterialInstance:
+            Material: 44683250-daf7-420f-8684-97670ec6f925:Materials/BodyGray
+    98c4d20c91aa1618068f92bf068f92bf:
+        Name: glossMT
+        MaterialInstance:
+            Material: 0479457d-b5ac-4d7b-9b22-426c4b9552e1:Materials/BodyWhite
+Skeleton: null
+~SourceHashes:
+    756cc310ad4215682f609872395f8d50~../../../Resources/Models/MagazineModel.fbx: 76bc45bc990ccc3a003c4aa1da508514

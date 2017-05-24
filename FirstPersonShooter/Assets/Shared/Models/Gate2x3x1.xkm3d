@@ -1,0 +1,14 @@
+!Model
+Id: a3a58fe4-7f47-4c5f-ba63-83f2030ee2d7
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../Resources/Models/Gate2x3x1.fbx
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    2a4c62502d84612cd0bc56d6d0bc56d6:
+        Name: GridMT
+        MaterialInstance:
+            Material: dc9ffa32-408e-40a0-9cb7-7107aa144e09:Materials/GridMT
+Skeleton: null
+~SourceHashes:
+    459b5f803330c4e2f81711a4f0af59cb~../../../Resources/Models/Gate2x3x1.fbx: 38a9b646915b66568685e65559e6b06e

@@ -1,0 +1,14 @@
+!Model
+Id: 01ba4ee4-1835-49a8-bb92-27d4dada4504
+SerializedVersion: {Xenko: 2.0.0.0}
+Tags: []
+Source: ../../../Resources/Models/Stairs1x1x1_50.fbx
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    2a4c62502d84612cd0bc56d6d0bc56d6:
+        Name: GridMT
+        MaterialInstance:
+            Material: dc9ffa32-408e-40a0-9cb7-7107aa144e09:Materials/GridMT
+Skeleton: null
+~SourceHashes:
+    1946b2a54345ef8f3553ddeec66269d8~../../../Resources/Models/Stairs1x1x1_50.fbx: 86b5d119717c9450b290711337d5b502
